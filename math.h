@@ -1,0 +1,1 @@
+void calculate(char *expr, char *x);
